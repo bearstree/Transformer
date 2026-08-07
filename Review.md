@@ -38,13 +38,6 @@ Each of these parts can be used independently, depending on the task:
 &emsp; **Checkpoints**: These are the weights that will be loaded in a given architecture.  
 &emsp; **Model**: This is an umbrella term that isn’t as precise as “architecture” or “checkpoint”: it can mean both. This course will specify architecture or checkpoint when it matters to reduce ambiguity.  
 
-
-Visit [GitHub Official Docs](https://docs.github.com) for more tips.
-
-This is $\color{red}{\text{red text}}$ and this is $\color{cyan}{\text{cyan text}}$.
+![Alt text](image/transformer_message_flow_verified.gif)
 
 
-$\color{orange}{\text{This is a full line of orange text!}} $  
-&emsp; Architecture: This is the skeleton of the model — the definition of each layer and each operation that happens within the model.  
-&emsp; Checkpoints: These are the weights that will be loaded in a given architecture.  
-&emsp; Model: This is an umbrella term that isn’t as precise as “architecture” or “checkpoint”: it can mean both. This course will specify architecture or checkpoint when it matters to reduce ambiguity.  
