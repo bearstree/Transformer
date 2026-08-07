@@ -1,5 +1,5 @@
 ### Notes from [Huggin Face LLM Courses](https://huggingface.co/learn/llm-course/en/):  
-1. $\color{red}{\text{}}$ Transformers are **big**, **language models**. Broadly, they can be grouped into three categories:  
+1. $\color{red}{\text{Transformers}}$ are **big**, **language models**. Broadly, they can be grouped into three categories:  
 &emsp; a. GPT-like (also called **auto-regressive** Transformer models)  
 &emsp; b. BERT-like (also called **auto-encoding** Transformer models)  
 &emsp; c. T5-like (also called **sequence-to-sequence** Transformer models)  
